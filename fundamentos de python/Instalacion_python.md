@@ -63,5 +63,14 @@ Una vez instalado, abriremos el editor y seleccionaremos extensiones en el lado 
 
 ![cmd](./assets/instalacion/vscode_python.png)
 
+una vez instalado, crearemos un nuevo archivo `holaMundo.py` y escribiremos el siguiente codigo 
 
+```python
+print("Hola Mundo")
+```
 
+ para ejecutarlo daremos clic derecho y *ejecutar archivo en la terminal*
+
+![](D:\ivriv\Sandbox\Python\Taller_ciencia_a_la_programacion\assets\instalacion\holaMundo.png)
+
+lo cual ejecutara una terminal mostrando el mensaje `Hola Mundo` 
