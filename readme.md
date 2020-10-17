@@ -13,7 +13,10 @@ En esta sección encontraras las notas complementarias a las sesiones en vivo
 
 ## Ejercicios
 
-1. [Ejercicios sobre variables, condicionales y ciclos](./Ejercicios/Fundamentos1.md)
+- [Ejercicios sobre variables, condicionales y ciclos](./Ejercicios/Fundamentos1.md)
+  - [Soluciones](./Ejercicios/Soluciones/Fundamentos_1)
+
+
 
 ## Referencias
 
